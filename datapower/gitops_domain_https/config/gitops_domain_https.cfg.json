@@ -4,7 +4,7 @@
   "configuration":[
     {
       "DomainSettings":{
-        "@name":"default",
+        "@name":"gitops_domain_https",
         "mAdminState":"enabled",
         "PasswordTreatment":"none",
         "ConfigDir":"config:///"
