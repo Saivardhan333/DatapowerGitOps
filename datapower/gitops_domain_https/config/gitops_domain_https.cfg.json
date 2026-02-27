@@ -1,6 +1,6 @@
 {
   "@build":"375839",
-  "@timestamp":"Wed Feb 25 02:08:16 2026",
+  "@timestamp":"Fri Feb 27 01:04:10 2026",
   "configuration":[
     {
       "DomainSettings":{
@@ -729,7 +729,7 @@
         "@name":"http",
         "mAdminState":"disabled",
         "LocalAddress":"0.0.0.0",
-        "LocalPort":90,
+        "LocalPort":9090,
         "HTTPVersion":"HTTP/1.1",
         "AllowedFeatures":{
           "HTTP-1.0":"on",
